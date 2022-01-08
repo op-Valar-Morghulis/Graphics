@@ -1,0 +1,4 @@
+/home/cs18/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cs18/clion/bin/ninja/linux/ninja -G Ninja /home/cs18/CLionProjects/LearnOpenGL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/cs18/CLionProjects/LearnOpenGL/cmake-build-debug
